@@ -1,16 +1,44 @@
-## Hi there 👋
+### Hi there 👋, my name is  Mazharul Islam
+#### I'm a frontend web developer.
 
-<!--
-**MazharulTamim/MazharulTamim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***Learning:***
+- I'm currently learning Backend Development 
+- Data science 
 
-Here are some ideas to get you started:
+<i> Currently, I'm working on Frontend development. 
+I have done some intermediate enterprise-level projects. 
+I'm looking to collaborate with a good company to increase my skill too.</i>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Skills:
+
+***Frontend***
+  - HTML && CSS 
+  -  CSS Frameworks: <i>Bootstrap</i> <i>Tailwindcss</i>
+  - Javascript
+  - Typescript
+  - React JS
+  - Vue JS
+  - Redux
+  and some additional frameworks
+  
+***Backend***
+  - Node JS 
+  - Express JS
+  - firebase
+  - supabase
+
+  
+  
+***Database***
+ - Mongodb
+ - MYSQL
+ - Postgresql
+
+
+### Socials:
+[Facebook](https://www.facebook.com/mazharul.tamim.28/) || [LinkedIn ](https://www.linkedin.com/in/mazharul-islam-5194a5204/)
+
+
+
